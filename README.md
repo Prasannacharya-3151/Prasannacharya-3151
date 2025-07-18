@@ -1,6 +1,16 @@
 # 💫 About Me:
-🌸 Currently working on a mental health support website and personal projects with React.js & Tailwind CSS.<br><br>🎨 Passionate about frontend development, UI/UX design, and transforming simple ideas into beautiful, functional web apps.<br><br>🌱 Learning backend basics, improving JavaScript skills, and diving into web app deployment workflows.<br><br>🤝 Open to collaborating on web development, UI/UX prototypes, and creative website ideas.<br><br>⚡ Fun fact: I love playing with color palettes and layouts — making designs clean, aesthetic, and responsive is my happy place!<br><br>
-
+🚀 Full-Stack Developer in Progress | Frontend Pro | Creative UI/UX Enthusiast
+🌟 Hello! I'm a passionate developer who has completed the frontend journey and is now stepping confidently into the backend world to become a full-stack web developer.
+<br>
+💻 I work with React.js, Tailwind CSS, and Next.js, blending performance with pixel-perfect design. Currently, I’m building a printer servicing website that brings real-life utility through smooth design and functionality.
+<br>
+🎨 My creative side shines in UI/UX design — I love crafting clean, aesthetic, and responsive interfaces that feel just as good as they look.
+<br>
+🔧 I’m now diving into APIs, databases, and backend logic, exploring the full lifecycle of modern web apps.
+<br>
+🤝 I'm open to collaborations, side projects, and UI/UX explorations — whether it's building from scratch or refining existing ideas.
+<br>
+✨ Fun fact: Give me a color palette and a blank screen, and I’ll happily spend hours turning it into something beautiful!
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/prasannaacharya7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prasanna-acharya-80bb6b353/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasannacharya428@gmail.com) 
