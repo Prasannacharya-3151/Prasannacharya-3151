@@ -1,16 +1,15 @@
 # 💫 About Me:
-🚀 Full-Stack Developer in Progress | Frontend Pro | Creative UI/UX Enthusiast
-🌟 Hello! I'm a passionate developer who has completed the frontend journey and is now stepping confidently into the backend world to become a full-stack web developer.
+🌟 Hi! I’m a passionate developer who completed the frontend journey and is now learning backend to become a full-stack web developer.
 <br>
-💻 I work with React.js, Tailwind CSS, and Next.js, blending performance with pixel-perfect design. Currently, I’m building a printer servicing website that brings real-life utility through smooth design and functionality.
+💻 I build with React.js, Tailwind CSS, and Next.js — combining performance with clean design. Right now, I’m working on a printer servicing website with real-world features.
 <br>
-🎨 My creative side shines in UI/UX design — I love crafting clean, aesthetic, and responsive interfaces that feel just as good as they look.
+🎨 I enjoy UI/UX design and love creating clean, responsive, and user-friendly interfaces.
 <br>
-🔧 I’m now diving into APIs, databases, and backend logic, exploring the full lifecycle of modern web apps.
+🔧 Currently exploring APIs, databases, and backend logic to understand how complete apps work.
 <br>
-🤝 I'm open to collaborations, side projects, and UI/UX explorations — whether it's building from scratch or refining existing ideas.
+🤝 I’m open to collaborations, side projects, or any creative idea — from scratch or redesigns.
 <br>
-✨ Fun fact: Give me a color palette and a blank screen, and I’ll happily spend hours turning it into something beautiful!
+✨ Fun fact: I can spend hours playing with color palettes and layouts — I enjoy making designs both beautiful and functional!
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/prasannaacharya7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prasanna-acharya-80bb6b353/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasannacharya428@gmail.com) 
