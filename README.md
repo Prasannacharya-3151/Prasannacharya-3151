@@ -6,7 +6,7 @@
 
 <p>I am a passionate developer who loves clean functional designs.</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FCE992&center=true&vCenter=true&width=550&lines=Developer;MERN+Stack+Developer;Aesthetic+UI%2FUX+Developer;Tech+Enthusiast;Prasanna+Acharya" />
+<img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=4DA3FF&center=true&vCenter=true&width=450&lines=Developer;MERN+Stack+Developer;Aesthetic+UI%2FUX+Developer;Tech+Enthusiast;I+Love+Making+Smooth+and+Clean+Animations" />
 
 <br>
 
