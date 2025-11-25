@@ -1,6 +1,12 @@
-# [ 👋 Hello There, I'm Prasanna ]
+<div align="center">
 
-### <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FCE992&width=600&lines=MERN+Stack+Developer;Aesthetic+UI%2FUX+Designer;Developer+%7C+Tech+Enthusiast;Prasanna+Acharya" />
+Hi there!!
+
+I am a passionate developer who loves building clean functional designs.
+
+<img src="https://readme-typing-svg.herokuapp.com?size=25&color=FCE992&width=550&lines=Developer;MERN+Stack+Developer;Aesthetic+UI%2FUX+Developer;Tech+Enthusiast;Prasanna+Acharya" />
+
+</div>
 
 
 
