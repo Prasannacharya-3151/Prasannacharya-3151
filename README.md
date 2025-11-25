@@ -1,6 +1,6 @@
-<div align="center">
+<p align="left">[</p>
 
-[
+<div align="center">
 
 <h3>👋 Hi There!!</h3>
 
@@ -12,9 +12,9 @@
 
 ~ Prasanna Acharya ~
 
-]
-
 </div>
+
+<p align="right">]</p>
 
 
 
