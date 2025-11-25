@@ -1,10 +1,18 @@
 <div align="center">
 
-Hi there!!
+[
 
-I am a passionate developer who loves building clean functional designs.
+<h3>👋 Hi There!!</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=25&color=FCE992&width=550&lines=Developer;MERN+Stack+Developer;Aesthetic+UI%2FUX+Developer;Tech+Enthusiast;Prasanna+Acharya" />
+<p>I am a passionate developer who loves clean functional designs.</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=FCE992&center=true&vCenter=true&width=550&lines=Developer;MERN+Stack+Developer;Aesthetic+UI%2FUX+Developer;Tech+Enthusiast;Prasanna+Acharya" />
+
+<br><br>
+
+~ Prasanna Acharya ~
+
+]
 
 </div>
 
