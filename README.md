@@ -1,15 +1,8 @@
-# 💫 About Me:
-🌟 Hi! I’m a passionate developer who completed the frontend journey and is now learning backend to become a full-stack web developer.
-<br>
-💻 I build with React.js, Tailwind CSS, and Next.js — combining performance with clean design. Right now, I’m working on a printer servicing website with real-world features.
-<br>
-🎨 I enjoy UI/UX design and love creating clean, responsive, and user-friendly interfaces.
-<br>
-🔧 Currently exploring APIs, databases, and backend logic to understand how complete apps work.
-<br>
-🤝 I’m open to collaborations, side projects, or any creative idea — from scratch or redesigns.
-<br>
-✨ Fun fact: I can spend hours playing with color palettes and layouts — I enjoy making designs both beautiful and functional!
+# [ 👋 Hello There, I'm Prasanna ]
+
+### <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FCE992&width=600&lines=MERN+Stack+Developer;Aesthetic+UI%2FUX+Designer;Developer+%7C+Tech+Enthusiast;Prasanna+Acharya" />
+
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/prasannaacharya7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prasanna-acharya-80bb6b353/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasannacharya428@gmail.com) 
